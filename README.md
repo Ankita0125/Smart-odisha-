@@ -17,3 +17,4 @@ By including cities in Odisha and their past datasets available, the time analys
 HOME SCREEN ![image](https://github.com/Ankita0125/Sih/assets/94460361/8d600f92-d8bd-4996-9fb5-b36e58add3db)  MUNICIPAL SCREEN ![image](https://github.com/Ankita0125/Sih/assets/94460361/0b119f68-ca3f-4cea-92a1-a5b004bb28f5)
 MAPS  ![image](https://github.com/Ankita0125/Sih/assets/94460361/12452ad3-b8f7-4c6f-9830-796e9a29f86f)  WASTE CLASSIFIER  ![image](https://github.com/Ankita0125/Sih/assets/94460361/6b343ad2-40a3-42fb-853c-be9d295f90d6)
 
+Video : https://youtu.be/qMO-RAuFcn8?feature=shared
